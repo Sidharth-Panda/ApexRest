@@ -1,6 +1,6 @@
 /****************************************************************************************************
  * Description - Sample Apex REST service with GET method
- * Author - Matthew Lamb
+ * Author - Sidharth Panda
  ****************************************************************************************************/
 
 @RestResource(urlMapping='/v1/accounts/*')
